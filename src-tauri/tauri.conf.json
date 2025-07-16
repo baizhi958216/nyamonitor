@@ -12,9 +12,11 @@
   "app": {
     "windows": [
       {
-        "title": "nyamonitor",
-        "width": 800,
-        "height": 600
+        "title": "ETH实时行情监控 - NyaMonitor",
+        "width": 1200,
+        "height": 800,
+        "minWidth": 800,
+        "minHeight": 600
       }
     ],
     "security": {
